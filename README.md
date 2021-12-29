@@ -21,4 +21,4 @@
 
 ### Credits
 
-- [Death angel](https://github.com/death-angel-141/String-Session-Generator.git)
+- [Death angel](https://github.com/death-angel-141)
